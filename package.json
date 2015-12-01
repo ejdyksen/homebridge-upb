@@ -1,0 +1,25 @@
+{
+  "name": "homebridge-upb",
+  "version": "1.0.0",
+  "description": "A UPB plugin for Homebridge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ejdyksen/homebridge-upb.git"
+  },
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "author": "E.J. Dyksen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ejdyksen/homebridge-upb/issues"
+  },
+  "homepage": "https://github.com/ejdyksen/homebridge-upb#readme",
+  "dependencies": {
+    "upb": "^1.2.3"
+  }
+}
